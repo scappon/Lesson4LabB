@@ -1,0 +1,14 @@
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\bin\Debug\netstandard2.0\Lesson4LabB.deps.json
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\bin\Debug\netstandard2.0\Lesson4LabB.dll
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\bin\Debug\netstandard2.0\ref\Lesson4LabB.dll
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\bin\Debug\netstandard2.0\Lesson4LabB.pdb
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.csprojAssemblyReference.cache
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.AssemblyInfoInputs.cache
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.AssemblyInfo.cs
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.csproj.CoreCompileInputs.cache
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.dll
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\ref\Lesson4LabB.dll
+C:\Users\samca\source\repos\Lesson4LabB\Lesson4LabB\Lesson4LabB\obj\Debug\netstandard2.0\Lesson4LabB.pdb
